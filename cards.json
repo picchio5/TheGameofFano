@@ -1,0 +1,74 @@
+{
+    "cards" :[
+        { 
+            "name":"Joe Biden", 
+            "age":80, 
+            "country":"USA", 
+            "color": "red",
+            "type": "person"
+        },
+        { 
+            "name":"Donald Trump", 
+            "age":80, 
+            "country":"USA", 
+            "color": "red",
+            "type": "person"
+        },
+        { 
+            "name":"Pope Francis", 
+            "age":85, 
+            "country":"Argentina", 
+            "color": "red",
+            "type": "person"
+        },
+        { 
+            "name":"Jannik Sinner", 
+            "age":22, 
+            "country":"Italy", 
+            "color": "orange",
+            "type": "person"
+        },
+        { 
+            "name":"Giorgia Meloni", 
+            "age":47, 
+            "country":"Italy", 
+            "color": "red",
+            "type": "person"
+        },
+        { 
+            "name":"Giuseppe Conte", 
+            "age":59, 
+            "country":"Italy", 
+            "color": "red",
+            "type": "person"
+        },
+        { 
+            "name":"Lautaro Martinez", 
+            "age":26, 
+            "country":"Argentina", 
+            "color": "orange",
+            "type": "person"
+        },
+        { 
+            "name":"P38", 
+            "age":40, 
+            "country":"Italy", 
+            "color": "pink",
+            "type": "person"
+        },
+        { 
+            "name":"Michele Salvemini detto 'Caparezza'", 
+            "age":50, 
+            "country":"Italy", 
+            "color": "pink",
+            "type": "person"
+        },
+        { 
+            "name":"Victor Wembanyama", 
+            "age":20, 
+            "country":"France", 
+            "color": "orange",
+            "type": "person"
+        }
+    ]
+}
