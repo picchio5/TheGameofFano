@@ -5,70 +5,117 @@
             "age":80, 
             "country":"USA", 
             "color": "red",
-            "type": "person"
+            "type": "person",
+            "mana":1,
+            "power":200
         },
         { 
             "name":"Donald Trump", 
             "age":80, 
             "country":"USA", 
             "color": "red",
-            "type": "person"
+            "type": "person",
+            "mana":1,
+            "power":200
         },
         { 
-            "name":"Pope Francis", 
+            "name":"Papa Francesco", 
             "age":85, 
             "country":"Argentina", 
-            "color": "red",
-            "type": "person"
+            "color": "papa",
+            "type": "person",
+            "mana":1,
+            "power":200
         },
         { 
             "name":"Jannik Sinner", 
             "age":22, 
             "country":"Italy", 
             "color": "orange",
-            "type": "person"
+            "type": "person",
+            "mana":0,
+            "power":100
         },
         { 
             "name":"Giorgia Meloni", 
             "age":47, 
             "country":"Italy", 
             "color": "red",
-            "type": "person"
+            "type": "person",
+            "mana":0,
+            "power":100
         },
         { 
             "name":"Giuseppe Conte", 
             "age":59, 
             "country":"Italy", 
             "color": "red",
-            "type": "person"
+            "type": "person",
+            "mana":0,
+            "power":100
         },
         { 
             "name":"Lautaro Martinez", 
             "age":26, 
             "country":"Argentina", 
             "color": "orange",
-            "type": "person"
+            "type": "person",
+            "mana":1,
+            "power":200
         },
         { 
             "name":"P38", 
             "age":40, 
             "country":"Italy", 
             "color": "pink",
-            "type": "person"
+            "type": "person",
+            "mana":2,
+            "power":300
         },
         { 
             "name":"Michele Salvemini detto 'Caparezza'", 
             "age":50, 
             "country":"Italy", 
             "color": "pink",
-            "type": "person"
+            "type": "person",
+            "mana":1,
+            "power":200
         },
         { 
             "name":"Victor Wembanyama", 
             "age":20, 
             "country":"France", 
             "color": "orange",
-            "type": "person"
+            "type": "person",
+            "mana":5,
+            "power":20000
+        },
+        { 
+            "name":"Elly Schlein", 
+            "age":38, 
+            "country":"Switzerland", 
+            "color": "red",
+            "type": "person",
+            "mana":0,
+            "power":100
+        },
+        { 
+            "name":"Olaf Scholz", 
+            "age":65, 
+            "country":"Germany", 
+            "color": "red",
+            "type": "person",
+            "mana":0,
+            "power":100
+        },
+        { 
+            "name":"Babar Azam", 
+            "age":29, 
+            "country":"Pakistan", 
+            "color": "orange",
+            "type": "person",
+            "mana":2,
+            "power":300
         }
     ]
 }
